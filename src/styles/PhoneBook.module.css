@@ -1,0 +1,44 @@
+.dataPerson {
+  font-size: 30px;
+  display: grid;
+  width: 300px;
+  height: 50px;
+}
+.form {
+  width: 300px;
+  height: 300px;
+  font-size: 30px;
+  display: grid;
+  border: 2px solid;
+  padding: 15px;
+}
+.buttonAdd {
+  color: white;
+  height: 45px;
+  background-color: #000;
+  border-radius: 15px;
+}
+.inputField {
+  margin-left: 10px;
+  width: 250px;
+  height: 30px;
+  font-size: 20px;
+}
+input :focus {
+  border: 5px solid blue;
+}
+.labelMarkup {
+  font-size: 30px;
+}
+.listItem {
+  display: flex;
+  justify-content: space-around;
+  width: 400px;
+}
+.buttonRemove {
+  width: 70px;
+  height: 45px;
+  background-color: #000;
+  border-radius: 15px;
+  color: white;
+}
